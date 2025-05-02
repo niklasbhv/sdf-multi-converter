@@ -1,0 +1,9 @@
+[submodule "lib/lwm2m-cpp-edge"]
+	path = lib/lwm2m-cpp-edge
+	url = https://github.com/niklasbhv/lwm2m-cpp-edge.git
+[submodule "lib/matter-cpp-edge"]
+	path = lib/matter-cpp-edge
+	url = https://github.com/niklasbhv/matter-cpp-edge.git
+[submodule "lib/sdf-cpp-core"]
+	path = lib/sdf-cpp-core
+	url = https://github.com/niklasbhv/sdf-cpp-core.git
